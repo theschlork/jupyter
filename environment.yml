@@ -1,6 +1,6 @@
 name: example-environment
 channels:
-  	- conda-forge
+  - conda-forge
 dependencies:
-  	-pyntcloud
-	-open3d
+  -pyntcloud
+  -open3d
